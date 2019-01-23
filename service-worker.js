@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/surumen/precache-manifest.8241bbea7969a0927c4d6be791ed1574.js"
+  "/surumen/precache-manifest.c471ce2a2a7ead0019a04dd42ca270e7.js"
 );
 
 workbox.clientsClaim();
