@@ -5,12 +5,7 @@ import {
     SelectedFilters,
     ResultCard
 } from '@appbaseio/reactivesearch';
-import './App.css';
 
-import './styles/main.css';
-import './styles/blocks.css';
-import './styles/cards.css';
-import './styles/scroll.css';
 
 class App extends Component {
     render() {
