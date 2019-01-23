@@ -1,11 +1,11 @@
 {
-  "main.js": "/surumen/surumen/static/js/main.235042af.chunk.js",
-  "main.js.map": "/surumen/surumen/static/js/main.235042af.chunk.js.map",
-  "static/js/1.321681a5.chunk.js": "/surumen/surumen/static/js/1.321681a5.chunk.js",
-  "static/js/1.321681a5.chunk.js.map": "/surumen/surumen/static/js/1.321681a5.chunk.js.map",
-  "runtime~main.js": "/surumen/surumen/static/js/runtime~main.f75d8afa.js",
-  "runtime~main.js.map": "/surumen/surumen/static/js/runtime~main.f75d8afa.js.map",
-  "index.html": "/surumen/surumen/index.html",
-  "precache-manifest.8cf81480f4da5ba00dd7aaee4b982e3d.js": "/surumen/surumen/precache-manifest.8cf81480f4da5ba00dd7aaee4b982e3d.js",
-  "service-worker.js": "/surumen/surumen/service-worker.js"
+  "main.js": "/surumen/static/js/main.9165aa83.chunk.js",
+  "main.js.map": "/surumen/static/js/main.9165aa83.chunk.js.map",
+  "static/js/1.b237f45f.chunk.js": "/surumen/static/js/1.b237f45f.chunk.js",
+  "static/js/1.b237f45f.chunk.js.map": "/surumen/static/js/1.b237f45f.chunk.js.map",
+  "runtime~main.js": "/surumen/static/js/runtime~main.89ad8644.js",
+  "runtime~main.js.map": "/surumen/static/js/runtime~main.89ad8644.js.map",
+  "index.html": "/surumen/index.html",
+  "precache-manifest.8241bbea7969a0927c4d6be791ed1574.js": "/surumen/precache-manifest.8241bbea7969a0927c4d6be791ed1574.js",
+  "service-worker.js": "/surumen/service-worker.js"
 }
