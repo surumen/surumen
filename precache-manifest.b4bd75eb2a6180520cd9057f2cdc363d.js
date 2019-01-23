@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/surumen/static/css/main.204d5f1c.chunk.css"
   },
   {
-    "revision": "2006c6c95c747c00fec1d6188d014fe0",
+    "revision": "b7c90055a51be9a3f2473a3404b50d31",
     "url": "/surumen/index.html"
   }
 ];
