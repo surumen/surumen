@@ -1,7 +1,7 @@
 {
   "main.css": "/surumen/static/css/main.204d5f1c.chunk.css",
-  "main.js": "/surumen/static/js/main.2f962e41.chunk.js",
-  "main.js.map": "/surumen/static/js/main.2f962e41.chunk.js.map",
+  "main.js": "/surumen/static/js/main.d5876944.chunk.js",
+  "main.js.map": "/surumen/static/js/main.d5876944.chunk.js.map",
   "static/js/1.6cb02dcc.chunk.js": "/surumen/static/js/1.6cb02dcc.chunk.js",
   "static/js/1.6cb02dcc.chunk.js.map": "/surumen/static/js/1.6cb02dcc.chunk.js.map",
   "runtime~main.js": "/surumen/static/js/runtime~main.89ad8644.js",
@@ -9,6 +9,6 @@
   "static/media/cards.css": "/surumen/static/media/sound.381e3e15.svg",
   "static/css/main.204d5f1c.chunk.css.map": "/surumen/static/css/main.204d5f1c.chunk.css.map",
   "index.html": "/surumen/index.html",
-  "precache-manifest.cd05efe8c69133c11ab9d511969d24b3.js": "/surumen/precache-manifest.cd05efe8c69133c11ab9d511969d24b3.js",
+  "precache-manifest.c7c861bd85ff116b37937cf3c1880dd0.js": "/surumen/precache-manifest.c7c861bd85ff116b37937cf3c1880dd0.js",
   "service-worker.js": "/surumen/service-worker.js"
 }
