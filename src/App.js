@@ -9,7 +9,7 @@ import Mixtape from './pages/Mixtape'
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path="/" component={Home} />
           <Route exact path="/somalab" component={SomaLab} />
