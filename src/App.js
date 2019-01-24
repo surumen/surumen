@@ -12,8 +12,8 @@ class App extends Component {
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route exact path="/somalab" component={SomaLab} />
-          <Route exact path="/mixtape" component={Mixtape} />
+          <Route exact path="https://surumen.github.io/surumen/somalab" component={SomaLab} />
+          <Route exact path="https://surumen.github.io/surumen/mixtape" component={Mixtape} />
         </Switch>
       </BrowserRouter>
     )
